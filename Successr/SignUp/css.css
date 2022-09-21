@@ -1,0 +1,8 @@
+body {background-color:#293132}
+
+.Logo {
+    position:absolute;
+    height: 11%;
+    user-select: none;
+    -webkit-user-drag: none;
+}
