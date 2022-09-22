@@ -15,8 +15,8 @@ body {background-color:#293132}
     top: 55%;
     left: 50%;
     transform: translate(-50%,0%);
-    width: 35%;
     height: 8%;
+    aspect-ratio: 5;
     border-color: white;
     background-color: #3772ff;
     border-radius: 1000px;
@@ -29,8 +29,8 @@ body {background-color:#293132}
     top: 64%;
     left: 50%;
     transform: translate(-50%,0%);
-    width: 11%;
     height: 6%;
+    aspect-ratio: 2;
     background-color: transparent;
     border-color: transparent;
     color: black;

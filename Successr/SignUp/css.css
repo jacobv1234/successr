@@ -6,3 +6,40 @@ body {background-color:#293132}
     user-select: none;
     -webkit-user-drag: none;
 }
+
+.Border {
+    background-color: #545f5c;
+    position: absolute;
+    height: 70%;
+    width: 80%;
+    top: 15%;
+    left: 10%;
+    border-radius: 50px;
+    border-color: #e59500;
+    border-style: solid;
+}
+
+.Top-text {
+    position: absolute;
+    color: black;
+    left: 50%;
+    top: 17%;
+    transform: translate(-50%,0%);
+    text-align: center;
+}
+
+.Titletext {
+    position: absolute;
+    color: black;
+    left: 13%;
+    top: 25%;
+}
+
+.Addtitlebutton {
+    position:absolute;
+    top: 26.35%;
+    right: 11%;
+    height: 3%;
+    background-color: #3772ff;
+    border-color: #293132;
+}
