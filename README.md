@@ -1,3 +1,3 @@
 # successr
 
-still in progress
+still in progress, likely on pause forever
